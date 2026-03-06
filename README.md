@@ -2,9 +2,6 @@
 
 This project analyzes the motion of Brownian particles using numerical data analysis techniques.
 
-## Course
-PH5240 – Computational Physics
-
 ## Objective
 The goal of this project is to analyze particle motion data and determine the nature of Brownian motion using statistical methods.
 
@@ -24,9 +21,10 @@ The goal of this project is to analyze particle motion data and determine the na
 
    The mean square displacement is defined as:
 
-   \[
+   $$
    MSD = \Delta(t) = \frac{1}{N} \sum_{i=1}^{N} [(x_i(t)-x_i(0))^2 + (y_i(t)-y_i(0))^2]
-   \]
+   $$
+   
 
 4. **Time Analysis**
    - Time difference between snapshots:
