@@ -42,3 +42,16 @@ The goal of this project is to analyze particle motion data and determine the na
 
 5. **Log-Log Plot**
    - Plotted:
+
+
+This helps determine the nature of particle motion.
+
+## Technologies Used
+
+- Python
+- NumPy
+- Matplotlib
+- Binary file handling
+
+## Files Included
+
